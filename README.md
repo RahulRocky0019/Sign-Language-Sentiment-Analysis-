@@ -23,3 +23,7 @@ python Data_Collection.py to run the Live Feed
 8. Victory
 9. Stop
 10. Hello
+
+# Emotion Detection
+
+python emotion_detection.py to run the Live Feed
